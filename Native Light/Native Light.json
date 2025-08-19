@@ -1,0 +1,245 @@
+{
+    "name": "Native Light",
+    "style": "Light",
+    "author": {
+        "name": "Denis Volkov",
+        "email": "hello@noteplan.co"
+    },
+
+    "editor": {
+        "backgroundColor": "#e9e9e9",
+        "altBackgroundColor": "#dadada",
+        "tintColor": "#0495ff",
+        "tintColor2": "#ff4178",
+        "textColor": "#2a2a2a",
+        "toolbarBackgroundColor": "#d0d0d0",
+        "toolbarIconColor": "#777777",
+        "menuItemColor": "#777777",
+		"timeBlockColor": "#ff4178",
+        "shouldOverwriteFont": true
+    },
+    
+    "styles": {
+        
+        "body": {
+            "font": "AvenirNext-Regular",
+            "size": 16,
+            "color": "#2a2a2a",
+        },
+        
+        "title1": {
+            "color": "#000000",
+            "size": 28
+        },
+        
+        "title2": {
+            "color": "#000000",
+            "size": 24
+        },
+        
+        "title3": {
+            "color": "#000000",
+            "size": 20
+        },
+		
+		"working-on": {
+			"backgroundColor": "#55bd93f9",
+			"color": "#1f1f1f"
+		},
+
+		"flagged-1": {
+			"backgroundColor": "#33ff5555",
+			"color": "#FFB5B5"
+		},
+
+
+		"flagged-2": {
+			"backgroundColor": "#66ff5555",
+			"color": "#FFCCCC"
+		},
+
+		"flagged-3": {
+			"backgroundColor": "#99ff5555",
+			"color": "#FFDBBE"
+		},
+        
+        "title-mark1": {
+            "color": "#acacac",
+            "size": 28,
+        },
+        
+        "title-mark2": {
+           "color": "#acacac",
+           "size": 24,
+        },
+        
+        "title-mark3": {
+           "color": "#acacac",
+           "size": 20,
+        },
+		
+		"title4": {
+			"color": "#000000",
+			"size": 16
+		},
+		
+		"title-mark4": {
+		   "color": "#acacac",
+		   "size": 18,
+		},
+
+        "bold": {
+           "color": "#000000",
+           "font": "AvenirNext-Bold"
+        },
+        
+        "bold-left-mark": {
+            "color": "#acacac"
+        },
+        
+        "bold-right-mark": {
+            "color": "#acacac"
+        },
+        
+        "italic": {
+            "font": "AvenirNext-Italic"
+        },
+        
+        "italic-left-mark": {
+            "color": "#acacac"
+        },
+        
+        "italic-right-mark": {
+            "color": "#acacac"
+        },
+        
+        "boldItalic": {
+            "font": "AvenirNext-BoldItalic"
+        },
+        
+        "boldItalic-left-mark": {
+            "color": "#acacac"
+        },
+        
+        "boldItalic-right-mark": {
+            "color": "#acacac"
+        },
+        
+        "code": {
+            "font": "Menlo-Regular",
+            "color": "#be29b6",
+            "size": 15
+        },
+    
+        "code-left-backtick": {
+            "color": "#acacac"
+        },
+        
+        "code-right-backtick": {
+            "color": "#acacac"
+        },
+        
+        "checked": {
+            "color": "#90343434",
+            "headIndent": 32
+        },
+        
+        "todo": {
+            "color": "#acacac",
+            "headIndent": 32,
+            "size": 16
+        },
+        
+        "checked-todo-characters": {
+            "headIndent": 32,
+            "size": 16
+        },
+                
+        "tabbed": {
+            "headIndent": 32
+        },
+        
+        "quote-mark": {
+            "color": "#ff4178",
+            "headIndent": 32,
+            "size": 16
+        },
+        
+        "quote-content": {
+            "color": "#000000",
+            "type": "regular",
+            "headIndent": 33
+        },
+        
+        "link": {
+           
+        },
+                        
+        "schedule-to-date-link": {
+          
+        },
+        
+        "done-date": {
+            
+        },
+        
+        "schedule-from-date-link": {
+        
+        },
+
+        "note-title-link": {
+        
+        },
+        
+		"hashtag": {
+			"backgroundColor": "#300495ff"
+		},
+		
+		"attag": {
+			"backgroundColor": "#300495ff"
+		},
+		
+		"phonenumber": {
+	   
+		},
+		
+		"highlighted": {
+			"backgroundColor": "#55ff4178",
+			"color": "#ff4178"
+		},
+
+		"highlighted-left-marker": {
+			"color": "#40ff4178",
+		},
+
+		"highlighted-right-marker": {
+			"color": "#40ff4178",
+		},
+
+		"strikethrough": {
+			"color": "#AACBCCC6",
+			"strikethroughColor": "#CBCCC6"
+		},
+
+		"strikethrough-left-tilde": {
+			"color": "#66CBCCC6"
+		},
+
+		"strikethrough-right-tilde": {
+			"color": "#66CBCCC6"
+		},
+		
+		"underline": {
+			"underlineStyle": 2,
+			"underlineColor": "#ff4178"
+		},
+
+		"underline-left-tilde": {
+			"color": "#66CBCCC6"
+		},
+
+		"underline-right-tilde": {
+			"color": "#66CBCCC6"
+		}
+    }
+}

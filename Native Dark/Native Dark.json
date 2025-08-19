@@ -1,0 +1,244 @@
+{
+    "name": "Native Dark",
+    "style": "Dark",
+    "author": {
+        "name": "Denis Volkov",
+        "email": "hello@noteplan.co"
+    },
+
+    "editor": {
+        "backgroundColor": "#1b1b1b",
+        "altBackgroundColor": "#1e1e1e",
+        "tintColor": "#0495ff",
+        "tintColor2": "#ff4178",
+        "textColor": "#DFDFDF",
+        "toolbarBackgroundColor": "#282828",
+        "toolbarIconColor": "#DFDFDF",
+        "menuItemColor": "#DFDFDF",
+		"timeBlockColor": "#fa1855",
+        "shouldOverwriteFont": true
+    },
+    
+    "styles": {
+        
+        "body": {
+            "font": "AvenirNext-Regular",
+            "size": 16,
+            "color": "#DFDFDF",
+        },
+        
+        "title1": {
+            "color": "#FFFFFF",
+            "size": 28
+        },
+        
+        "title2": {
+            "color": "#FFFFFF",
+            "size": 24
+        },
+        
+        "title3": {
+            "color": "#FFFFFF",
+            "size": 20
+        },
+		
+		"working-on": {
+			"backgroundColor": "#55bd93f9",
+			"color": "#E9DEF9"
+		},
+
+		"flagged-1": {
+			"backgroundColor": "#33ff5555",
+			"color": "#FFB5B5"
+		},
+
+
+		"flagged-2": {
+			"backgroundColor": "#66ff5555",
+			"color": "#FFCCCC"
+		},
+
+		"flagged-3": {
+			"backgroundColor": "#99ff5555",
+			"color": "#FFDBBE"
+		},
+        
+        "title-mark1": {
+            "color": "#70FFFFFF",
+            "size": 28,
+        },
+        
+        "title-mark2": {
+           "color": "#70FFFFFF",
+           "size": 24,
+        },
+        
+        "title-mark3": {
+           "color": "#70FFFFFF",
+           "size": 20,
+        },
+		
+		"title4": {
+			"color": "#FFFFFF",
+			"size": 16
+		},
+		
+		"title-mark4": {
+		   "color": "#70FFFFFF",
+		   "size": 18,
+		},
+
+        "bold": {
+           "color": "#FFFFFF",
+           "font": "AvenirNext-Bold"
+        },
+        
+        "bold-left-mark": {
+            "color": "#70DFDFDF"
+        },
+        
+        "bold-right-mark": {
+            "color": "#70DFDFDF"
+        },
+        
+        "italic": {
+            "font": "AvenirNext-Italic"
+        },
+        
+        "italic-left-mark": {
+            "color": "#70DFDFDF"
+        },
+        
+        "italic-right-mark": {
+            "color": "#70DFDFDF"
+        },
+        
+        "boldItalic": {
+            "font": "AvenirNext-BoldItalic"
+        },
+        
+        "boldItalic-left-mark": {
+            "color": "#70DFDFDF"
+        },
+        
+        "boldItalic-right-mark": {
+            "color": "#70DFDFDF"
+        },
+        
+        "code": {
+            "font": "Menlo-Regular",
+            "color": "#6CCAFB",
+            "size": 15
+        },
+    
+        "code-left-backtick": {
+            "color": "#666CCAFB"
+        },
+        
+        "code-right-backtick": {
+            "color": "#666CCAFB"
+        },
+        
+        "checked": {
+            "color": "#70DFDFDF",
+            "headIndent": 32
+        },
+        
+        "todo": {
+            "color": "#6b6b6b",
+            "headIndent": 32,
+            "size": 16
+        },
+        
+        "checked-todo-characters": {
+            "headIndent": 32,
+            "size": 16
+        },
+                
+        "tabbed": {
+            "headIndent": 32
+        },
+        
+        "quote-mark": {
+            "color": "#ff4178",
+            "headIndent": 32,
+            "size": 16
+        },
+        
+        "quote-content": {
+            "type": "regular",
+            "headIndent": 32
+        },
+        
+        "link": {
+           
+        },
+                        
+        "schedule-to-date-link": {
+          
+        },
+        
+        "done-date": {
+            
+        },
+        
+        "schedule-from-date-link": {
+        
+        },
+
+        "note-title-link": {
+        
+        },
+        
+		"hashtag": {
+			"backgroundColor": "#500495ff"
+		},
+		
+		"attag": {
+			"backgroundColor": "#500495ff"
+		},
+		
+		"phonenumber": {
+	   
+		},
+		
+		"highlighted": {
+			"backgroundColor": "#35ff4178",
+			"color": "#ff0066"
+		},
+
+		"highlighted-left-marker": {
+			"color": "#40EAEAEA",
+		},
+
+		"highlighted-right-marker": {
+			"color": "#40EAEAEA",
+		},
+
+		"strikethrough": {
+			"color": "#AACBCCC6",
+			"strikethroughColor": "#CBCCC6"
+		},
+
+		"strikethrough-left-tilde": {
+			"color": "#66CBCCC6"
+		},
+
+		"strikethrough-right-tilde": {
+			"color": "#66CBCCC6"
+		},
+		
+		"underline": {
+			"underlineStyle": 2,
+			"underlineColor": "#ff4178"
+		},
+
+		"underline-left-tilde": {
+			"color": "#66CBCCC6"
+		},
+
+		"underline-right-tilde": {
+			"color": "#66CBCCC6"
+		}
+    }
+}
