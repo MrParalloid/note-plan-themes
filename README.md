@@ -1,19 +1,25 @@
 # NotePlan Themes by Paralloid
 
-## Native Dark
-<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 00 06" src="https://github.com/user-attachments/assets/5ca7f98e-e814-42f9-859c-979f936f1cc9" />
+### Native Dark
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 00 06" src="Native Dark/native-dark.png" />
 
-## Native Light
-<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 00 57" src="https://github.com/user-attachments/assets/d6beed28-8744-47b4-872a-522c77fee8cb" />
+### Native Light
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 00 57" src="Native Light/native-light.png" />
 
-## Orange Black
-<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 01 45" src="https://github.com/user-attachments/assets/3be62102-648f-4366-b526-448308b66f91" />
+### Orange Black
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 01 45" src="Orange Black/orange-black.png" />
 
-## Orange Light
-<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 01 18" src="https://github.com/user-attachments/assets/59975f07-f3b0-4e3c-a3d9-8d0d65c92267" />
+### Orange Dark
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 01 45" src="Orange Dark/orange-dark.png" />
 
-## Planppuccin
-<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 06 43" src="https://github.com/user-attachments/assets/bec4e8b6-2d42-4d58-b058-89c2f9ede368" />
+### Orange Light
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 01 18" src="Orange Light/orange-light.png" />
 
-## Things Dark
-<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 02 04" src="https://github.com/user-attachments/assets/492fe62c-2f17-4252-861b-888e78e8129e" />
+### Planppuccin
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 06 43" src="Planppuccin/planppuccin.png8" />
+
+### Things Dark
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 02 04" src="Things Dark/things-dark.png" />
+
+### Black Lavender
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 02 04" src="Black Lavender/black-lavender.png" />
