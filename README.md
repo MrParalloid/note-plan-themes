@@ -16,7 +16,7 @@
 <img width="983" height="783" alt="Screenshot 2025-08-19 at 14 01 18" src="Orange Light/orange-light.png" />
 
 ### Planppuccin
-<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 06 43" src="Planppuccin/planppuccin.png8" />
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 06 43" src="Planppuccin/planppuccin.png" />
 
 ### Things Dark
 <img width="983" height="783" alt="Screenshot 2025-08-19 at 14 02 04" src="Things Dark/things-dark.png" />
