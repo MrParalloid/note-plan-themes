@@ -1,7 +1,7 @@
 # NotePlan Themes by Paralloid
 
 ## Native Dark
-<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 00 57" src="https://github.com/user-attachments/assets/12d78ba5-bf18-4a4a-973e-b7a2cbc0a062" />
+<img width="983" height="783" alt="Screenshot 2025-08-19 at 14 00 06" src="https://github.com/user-attachments/assets/5ca7f98e-e814-42f9-859c-979f936f1cc9" />
 
 ## Native Light
 <img width="983" height="783" alt="Screenshot 2025-08-19 at 14 00 57" src="https://github.com/user-attachments/assets/d6beed28-8744-47b4-872a-522c77fee8cb" />
