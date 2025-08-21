@@ -48,19 +48,19 @@
 		},
 
 		"flagged-1": {
-			"backgroundColor": "#33ff5555",
-			"color": "#FFB5B5"
+			"backgroundColor": "#ffd8e3",
+			"color": "#ac1c45"
 		},
 
 
 		"flagged-2": {
-			"backgroundColor": "#66ff5555",
-			"color": "#FFCCCC"
+			"backgroundColor": "#ffb8cc",
+			"color": "#ac1c45"
 		},
 
 		"flagged-3": {
-			"backgroundColor": "#99ff5555",
-			"color": "#FFDBBE"
+			"backgroundColor": "#ff9fbb",
+			"color": "#ac1c45"
 		},
         
         "title-mark1": {
